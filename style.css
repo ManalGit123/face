@@ -1,0 +1,96 @@
+body{
+  
+  background-color:rgb(241, 239, 239) ;
+  
+  
+}
+
+
+.face{
+  font-family: 'Poppins';
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tDMPKzSQ.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+  color: rgb(83, 83, 236);
+  font-size: 70px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 0px;
+  padding-top: 0%;
+}
+   
+
+.text1{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 0px;
+  
+}
+.parent{
+  display: flex;
+  align-items: center;
+  width: 1000px;
+  
+  
+}
+.div2{
+  width: 500px;
+  margin-left: 20%;
+  background-color: rgb(241, 239, 239);
+  width: 400px;
+  
+
+  
+}
+
+.div3{
+  width: 350px;
+  height: 300px;
+  padding-left: 5%;
+  padding-top: 3%;
+  padding-right: 5%;
+  border-radius: 5%;
+  background-color: white;
+  margin-top: 100px;
+  
+  margin-left: 200px;
+}
+.inpu{
+  width:300px;
+  height: 25px;
+}
+.butt1{
+  width:310px;
+  height: 27px;
+  color:white;
+  border-color: rgb(83, 83, 236);
+  background-color: rgb(83, 83, 236);
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+ 
+  text-align: center;
+}
+.link{
+  color: rgb(80, 161, 175);
+  padding-left: 25%;
+}
+.trait{
+  WIDTH : "400px";
+  
+  
+  padding-left: 20%;
+}
+.butt2{
+  margin-left: 25%;
+  color: white;
+  background-color: rgb(93, 161, 93);
+  width: 250;
+  height: 27px;
+  border-color: rgb(93, 161, 93) ;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+}
+.text2{
+  margin-left: 73%;
+}
